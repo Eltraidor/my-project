@@ -11,7 +11,7 @@ int main()
 	
 	resultado=n1/100;
 	
-	cout <<"el valor final es: "<<resultado;
+	cout <<"el valor final va a ser: "<<resultado;
 	
 	
 	
